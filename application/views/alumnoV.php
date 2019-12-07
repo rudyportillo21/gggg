@@ -4,7 +4,7 @@
 	<thead>
 		<tr>
 			<td>Id</td>
-			<td>Nombre completo</td>
+			<td>Nombre completossss</td>
 			<td>sexo</td>
 			<td>curso</td>
 		</tr>
